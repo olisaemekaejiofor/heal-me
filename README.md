@@ -1,6 +1,7 @@
 # heal_me
 
-A new Flutter project.
+## Preview of the app:
+![My Task](https://github.com/olisaemekaejiofor/heal-me/blob/main/Edited_20210927_045642.gif)
 
 ## Getting Started
 
